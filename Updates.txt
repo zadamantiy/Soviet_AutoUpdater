@@ -1,0 +1,50 @@
+----16-06-2018 (v11)
+Archetypes:
+- Added Odd Rogue to Tempo Rogue archetype
+- Added Wild Even Shaman
+Other:
+- Several fixes 
+
+----27-05-2018 (v9-10)
+Archetypes:
+- Added Murloc Mage
+- Added Even Shaman
+Other:
+- Several fixes
+
+----17-04-2018 (v8)
+Archetypes:
+- Added Murloc Paladin
+- Added Spiteful Priest
+- Added Tempo Mage
+- Added Tempo Rogue
+- Added Zoo Warlock
+Other:
+- Spiteful Summoner fix in the Spiteful Druid mulligan
+- Reduced percentage to match for archetypes to 70%
+
+----17-04-2018
+Archetypes:
+- Added Even Paladin
+- Added Spiteful Druid
+- Added Taunt Druid
+
+----15-04-2018
+Archetypes:
+- Fixed Cube Lock for wild mode
+Other:
+- Added weapon penalty (The mulligan will not take several weapons at once)
+- Updated token info for The Witchwood 
+
+----14-04-2018: 2nd update
+Archetypes:
+- Added Cube Warlock 
+
+----14-04-2018
+Archetypes:
+- Added Odd Paladin mulligan
+Arena:
+- Marsh Drake's value increased for Rogue 
+
+----12-04-2018:
+- Release

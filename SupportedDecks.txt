@@ -1,0 +1,21 @@
+Standard:
+- Cube Warlock
+- Even Paladin
+- Even Shaman
+- Murloc Mage
+- Murloc Paladin
+- Odd Paladin
+- Odd Rogue
+- Spiteful Druid
+- Spiteful Priest
+- Taunt Druid
+- Tempo Mage
+- Tempo Rogue
+- Zoo Warlock
+
+Wild:
+- Egg Paladin
+- Giant Lock
+- Wild Even Shaman
+
+Arena
