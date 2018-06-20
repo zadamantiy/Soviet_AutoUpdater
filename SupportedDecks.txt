@@ -2,6 +2,7 @@ Standard:
 - Cube Warlock
 - Even Paladin
 - Even Shaman
+- Even Warlock
 - Murloc Mage
 - Murloc Paladin
 - Odd Paladin
