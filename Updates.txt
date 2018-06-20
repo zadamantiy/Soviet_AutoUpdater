@@ -1,3 +1,6 @@
+----20-06-2018 (v13)
+- Fixed bug: bot used Cube Warlock mulligan on the arena
+
 ----20-06-2018 (v12)
 Archetypes:
 - Added Even Warlock
