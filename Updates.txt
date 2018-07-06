@@ -1,3 +1,8 @@
+----06-07-2018 (v15)
+- Support for quests in arena mulligan
+- Support for Heal ZooLock
+- Improved Tempo Rogue archetype detection
+
 ----24-06-2018 (v14)
 - Support for Tavern of Time arena
 
