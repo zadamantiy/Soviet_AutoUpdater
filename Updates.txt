@@ -1,3 +1,15 @@
+----23-08-2018 (v18)
+Archetypes:
+- Added Elemental Shaman
+- Odd Rogue and Tempo Rogue are separated now
+
+----09-08-2018 (v17)
+Archetypes:
+- Added Control/Quest Warrior (first edition, post any bugs, please)
+- Updated Odd Paladin
+- Updated Even Shaman
+- Updated Zoo Warlock
+
 ----07-08-2018 (v16)
 Arena:
 - Support for The Boomsday Project
