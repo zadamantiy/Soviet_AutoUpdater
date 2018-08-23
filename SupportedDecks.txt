@@ -1,6 +1,7 @@
 Standard:
 - Control Warrior
 - Cube Warlock
+- Elemental Shaman
 - Even Paladin
 - Even Shaman
 - Even Warlock
