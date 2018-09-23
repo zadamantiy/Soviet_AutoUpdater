@@ -1,6 +1,7 @@
 Standard:
 - Control Warrior
 - Cube Warlock
+- Deathrattle Hunter
 - Elemental Shaman
 - Even Paladin
 - Even Shaman
@@ -14,6 +15,7 @@ Standard:
 - Taunt Druid
 - Tempo Mage
 - Tempo Rogue
+- Token Druid
 - Zoo Warlock
 
 Wild:
