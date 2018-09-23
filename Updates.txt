@@ -1,5 +1,12 @@
 ----23-08-2018 (v18)
 Archetypes:
+- Added Token Druid
+- Added Deathrattle Hunter
+Other:
+- Small fixes
+
+----23-08-2018 (v18)
+Archetypes:
 - Added Elemental Shaman
 - Odd Rogue and Tempo Rogue are separated now
 
