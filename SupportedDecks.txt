@@ -1,10 +1,12 @@
 Standard:
+- No decks. I'll add some soon.
+
+Wild:
 - Control Warrior
 - Cube Warlock
 - Deathrattle Hunter
 - Elemental Shaman
 - Even Paladin
-- Even Shaman
 - Even Warlock
 - Murloc Mage
 - Murloc Paladin
@@ -17,8 +19,6 @@ Standard:
 - Tempo Rogue
 - Token Druid
 - Zoo Warlock
-
-Wild:
 - Egg Paladin
 - Giant Lock
 - Wild Even Shaman
