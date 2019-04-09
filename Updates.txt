@@ -1,4 +1,9 @@
-----06-12-2018 (v21)
+----10-04-2019 (v22)
+- Arena 
+-- Naxx support
+-- GvG support
+
+----09-04-2019 (v21)
 - Arena update for Rise of Shadows
 - Some archetypes for wild
 
