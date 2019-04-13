@@ -1,5 +1,5 @@
 Standard:
-- No decks. I'll add some soon.
+- Token Druid
 
 Wild:
 - Control Warrior
@@ -17,7 +17,6 @@ Wild:
 - Taunt Druid
 - Tempo Mage
 - Tempo Rogue
-- Token Druid
 - Zoo Warlock
 - Egg Paladin
 - Giant Lock

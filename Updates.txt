@@ -1,3 +1,10 @@
+----13-04-2019 (v23)
+Archetypes
+- Old Token Druid replaced with the new one
+
+Core (for modders)
+- Added "combo" keyword for ini files
+
 ----10-04-2019 (v22)
 - Arena 
 -- Naxx support
