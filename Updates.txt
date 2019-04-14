@@ -1,4 +1,4 @@
-----14-04-2019 (v24)
+----14-04-2019 (v24-25)
 Archetypes
 - Added support for new Zoolock
 
