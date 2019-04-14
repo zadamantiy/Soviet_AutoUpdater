@@ -1,13 +1,16 @@
 Standard:
 - Token Druid
+- Zoo Warlock
 
 Wild:
 - Control Warrior
 - Cube Warlock
 - Deathrattle Hunter
+- Egg Paladin
 - Elemental Shaman
 - Even Paladin
 - Even Warlock
+- Giant Lock
 - Murloc Mage
 - Murloc Paladin
 - Odd Paladin
@@ -17,9 +20,7 @@ Wild:
 - Taunt Druid
 - Tempo Mage
 - Tempo Rogue
-- Zoo Warlock
-- Egg Paladin
-- Giant Lock
 - Wild Even Shaman
+- Zoo Warlock
 
 Arena

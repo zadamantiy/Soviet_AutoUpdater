@@ -1,3 +1,7 @@
+----14-04-2019 (v24)
+Archetypes
+- Added support for new Zoolock
+
 ----13-04-2019 (v23)
 Archetypes
 - Old Token Druid replaced with the new one
