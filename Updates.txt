@@ -1,4 +1,8 @@
-----14-04-2019 (v24-25)
+----14-04-2019 (v25)
+Archetypes
+- Fix for the zoolock (I accidentally uploaded the wrong file)
+
+----14-04-2019 (v24)
 Archetypes
 - Added support for new Zoolock
 
