@@ -1,4 +1,6 @@
 Standard:
+- Mech Hunter
+- Murloc Shaman
 - Token Druid
 - Zoo Warlock
 

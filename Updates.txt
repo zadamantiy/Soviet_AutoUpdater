@@ -1,3 +1,8 @@
+----24-04-2019 (v26)
+Archetypes:
+- Added Mech Hunter
+- Added Murloc Shaman
+
 ----14-04-2019 (v25)
 Archetypes
 - Fix for the zoolock (I accidentally uploaded the wrong file)
