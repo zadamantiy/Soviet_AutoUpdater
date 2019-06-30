@@ -1,3 +1,7 @@
+----01-07-2019 (v27)
+Arena:
+- TGT support
+
 ----24-04-2019 (v26)
 Archetypes:
 - Added Mech Hunter
