@@ -1,5 +1,5 @@
 ----21-09-2019 (v35)
-- Updated Murloc Shaman for the list with Mogu Fleshaper
+- Updated Murloc Shaman for the list with Mogu Fleshshaper
 
 ----02-09-2019 (v34)
 - Updated Combo Priest
