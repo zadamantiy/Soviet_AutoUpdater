@@ -1,4 +1,6 @@
 Standard:
+- Aggro Warrior
+- Combo Priest
 - Mech Hunter
 - Murloc Shaman
 - Token Druid
