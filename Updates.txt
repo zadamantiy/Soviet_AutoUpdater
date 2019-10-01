@@ -1,3 +1,7 @@
+----01-10-2019 (v36)
+- Added Highlander Paladin
+- Added Wild Mech Paladin
+
 ----21-09-2019 (v35)
 - Updated Murloc Shaman for the list with Mogu Fleshshaper
 
