@@ -1,6 +1,7 @@
 Standard:
 - Aggro Warrior
 - Combo Priest
+- Hihglander Paladin
 - Mech Hunter
 - Murloc Shaman
 - Token Druid
@@ -15,6 +16,7 @@ Wild:
 - Even Paladin
 - Even Warlock
 - Giant Lock
+- Mech Paladin
 - Murloc Mage
 - Murloc Paladin
 - Odd Paladin
