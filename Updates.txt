@@ -1,3 +1,8 @@
+----02-11-2019 (v37)
+- Added Evolve Shaman
+- Updated Zoo Warlock
+- Updated Arena (finally supports all expansions + some adjustments)
+
 ----01-10-2019 (v36)
 - Added Highlander Paladin
 - Added Wild Mech Paladin
