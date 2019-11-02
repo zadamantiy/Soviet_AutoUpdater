@@ -1,6 +1,7 @@
 Standard:
 - Aggro Warrior
 - Combo Priest
+- Evolve Shaman
 - Hihglander Paladin
 - Mech Hunter
 - Murloc Shaman
