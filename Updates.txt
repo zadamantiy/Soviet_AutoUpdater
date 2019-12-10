@@ -1,3 +1,6 @@
+----11-12-2019 (v38)
+- Support for Descent of Dragons on arena
+
 ----02-11-2019 (v37)
 - Added Evolve Shaman
 - Updated Zoo Warlock
