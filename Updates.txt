@@ -1,3 +1,7 @@
+----12-12-2019 (v39)
+- Adjustments for Descent of Dragons on arena
+- Added Pirate Warrior
+
 ----11-12-2019 (v38)
 - Support for Descent of Dragons on arena
 
