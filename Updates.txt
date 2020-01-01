@@ -1,4 +1,7 @@
-----26-12-2019 (v40)
+----01-01-2020 (v42)
+- Added Galakrond Warrior
+
+----26-12-2019 (v41)
 - Updated Combo Priest
 - Updated Wild Even Shaman
 - Added Face Hunter
