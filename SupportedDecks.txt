@@ -2,9 +2,14 @@ Standard:
 - Aggro Warrior
 - Combo Priest
 - Evolve Shaman
-- Hihglander Paladin
+- Face Hunter
+- Galakrond Shaman
+- Galakrond Warrior
+- Highlander Paladin
 - Mech Hunter
 - Murloc Shaman
+- Pirate Warrior
+- Secret Highlander Hunter
 - Token Druid
 - Zoo Warlock
 
