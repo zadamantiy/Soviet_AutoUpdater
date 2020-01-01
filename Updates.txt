@@ -5,7 +5,7 @@
 - Updated Combo Priest
 - Updated Wild Even Shaman
 - Added Face Hunter
-- Added Secret Highlander Priest
+- Added Secret Highlander Hunter
 
 ----15-12-2019 (v40)
 - Added Galakrond Shaman
