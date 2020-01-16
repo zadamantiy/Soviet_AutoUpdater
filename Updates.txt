@@ -1,3 +1,8 @@
+----16-01-2020 (v43)
+- Added Galakrond Zoo Warlock
+- Added Aggro Overload Shaman
+- Arena mulligan fixes
+
 ----01-01-2020 (v42)
 - Added Galakrond Warrior
 
