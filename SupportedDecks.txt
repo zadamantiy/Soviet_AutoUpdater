@@ -1,10 +1,12 @@
 Standard:
 - Aggro Warrior
+- Aggro Overload Shaman
 - Combo Priest
 - Evolve Shaman
 - Face Hunter
 - Galakrond Shaman
 - Galakrond Warrior
+- Galakrond Zoo Warlock
 - Highlander Paladin
 - Mech Hunter
 - Murloc Shaman
