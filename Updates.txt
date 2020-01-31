@@ -1,3 +1,7 @@
+----01-02-2020 (v44)
+- Added Token Druid
+- Added Embiggen Druid
+
 ----16-01-2020 (v43)
 - Added Galakrond Zoo Warlock
 - Added Aggro Overload Shaman
