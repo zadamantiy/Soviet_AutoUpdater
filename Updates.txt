@@ -1,5 +1,5 @@
 ----23-02-2020 (v46)
-- Updated Arena for Galarkond Awakening
+- Updated Arena for Galakrond Awakening
 - Updated Galakrond Warrior
 - Added Dragon Hunter
 
