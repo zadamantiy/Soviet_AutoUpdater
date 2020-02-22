@@ -2,6 +2,7 @@ Standard:
 - Aggro Warrior
 - Aggro Overload Shaman
 - Combo Priest
+- Dragon Hunter
 - Embiggen Druid
 - Evolve Shaman
 - Face Hunter
