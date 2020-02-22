@@ -1,3 +1,8 @@
+----23-02-2020 (v46)
+- Updated Arena for Galarkond Awakening
+- Updated Galakrond Warrior
+- Added Dragon Hunter
+
 ----03-02-2020 (v45)
 - Updated Combo Priest
 
