@@ -1,3 +1,7 @@
+----09-04-2020 (v47)
+- Updated Arena for Ashes Of Outland, Priest Changes and Demon Hunter cards
+- Added outcast keyword (works if card is first in hand)
+
 ----23-02-2020 (v46)
 - Updated Arena for Galakrond Awakening
 - Updated Galakrond Warrior
