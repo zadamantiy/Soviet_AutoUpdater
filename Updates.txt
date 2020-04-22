@@ -1,3 +1,11 @@
+----22-04-2020 (v48)
+- Fixed missing Galakrond Awakaning on arena
+- Updated Wild Even Shaman (thanks @Botfanatic)
+- Updated Wild Tempo Mage
+- Updated Zoo Warlock
+- Updated Face Hunter
+- Added Tempo Demon Hunter
+
 ----09-04-2020 (v47)
 - Updated Arena for Ashes Of Outland, Priest Changes and Demon Hunter cards
 - Added outcast keyword (works if card is first in hand)
