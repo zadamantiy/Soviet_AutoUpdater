@@ -1,5 +1,5 @@
 ----22-04-2020 (v48)
-- Fixed missing Galakrond Awakaning on arena
+- Fixed missing Galakrond Awakening on arena
 - Updated Wild Even Shaman (thanks @Botfanatic)
 - Updated Wild Tempo Mage
 - Updated Zoo Warlock
