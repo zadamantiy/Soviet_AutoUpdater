@@ -1,3 +1,7 @@
+----18-11-2020 (v50)
+- Updated arena for Darkmoon Faire
+- Added Wild Murloc Padadin
+
 ----06-08-2020 (v49)
 - Fixed bug in the main file
 - Updated arena for Scholomance Academy
