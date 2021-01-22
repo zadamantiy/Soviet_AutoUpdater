@@ -1,3 +1,6 @@
+----22-01-2021 (v51)
+- Updated arena for Darkmoon Races
+
 ----18-11-2020 (v50)
 - Updated arena for Darkmoon Faire
 - Added Wild Murloc Padadin
