@@ -1,3 +1,8 @@
+----01-04-2021 (v52)
+- Updated arena for Core set
+- Updated arena for Forged in the Barrens
+- Added option to search for old cards instead of CORE_ or VAN_
+
 ----22-01-2021 (v51)
 - Updated arena for Darkmoon Races
 
