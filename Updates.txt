@@ -1,3 +1,7 @@
+----07-04-2021 (v54)
+- SMK replaced with Wirmate's version many thanks to him. I was busy and didn't have time to fix it.
+- Added Secret Paladin
+
 ----01-04-2021 (v53)
 - [For developers] Fixed bug with new option
 
