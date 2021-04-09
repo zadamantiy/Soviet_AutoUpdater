@@ -1,3 +1,8 @@
+----09-04-2021 (v55)
+- Added Classic Midrange Shaman
+- Added Classic Zoo Warlock
+- Added Classic Token Druid
+
 ----07-04-2021 (v54)
 - SMK replaced with Wirmate's version many thanks to him. I was busy and didn't have time to fix it.
 - Added Secret Paladin
