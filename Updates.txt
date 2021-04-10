@@ -1,3 +1,7 @@
+----10-04-2021 (v56)
+- Added Classic Face Hunter
+- Improved Classic Midrange Shaman
+
 ----09-04-2021 (v55)
 - Added Classic Midrange Shaman
 - Added Classic Zoo Warlock
