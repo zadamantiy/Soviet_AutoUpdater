@@ -1,3 +1,6 @@
+----10-04-2021 (v57)
+- Support for Wailing Caverns
+
 ----10-04-2021 (v56)
 - Added Classic Face Hunter
 - Improved Classic Midrange Shaman
