@@ -1,3 +1,6 @@
+----14-12-2021 (v60)
+- Support for Fractured in Alterrac Valley
+
 ----03-11-2021 (v59)
 - Support for Deadmines
 
