@@ -1,5 +1,12 @@
+----25-04-2022 (v61)
+This is my first attempt with building arena tierlist based on HSReplay
+So report any troubles with mulligan on arena please.
+- Support for Voyage to the Sunken City
+- Support for Onyxia's Lair mini-set
+- Update for core cards (arena only)
+
 ----14-12-2021 (v60)
-- Support for Fractured in Alterac Valley
+- Support for Fractured in Alterrac Valley
 
 ----03-11-2021 (v59)
 - Support for Deadmines
