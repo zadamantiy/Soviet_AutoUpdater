@@ -1,42 +1,19 @@
 Standard:
-- Aggro Warrior
-- Aggro Overload Shaman
-- Combo Priest
-- Dragon Hunter
-- Embiggen Druid
-- Evolve Shaman
-- Face Hunter
-- Galakrond Shaman
-- Galakrond Warrior
-- Galakrond Zoo Warlock
-- Highlander Paladin
-- Mech Hunter
-- Murloc Shaman
-- Pirate Warrior
-- Secret Highlander Hunter
-- Token Druid
-- Zoo Warlock
+- Naga Demon Hunter
+- Quest Warrior
 
 Wild:
-- Control Warrior
-- Cube Warlock
-- Deathrattle Hunter
-- Egg Paladin
-- Elemental Shaman
-- Even Paladin
-- Even Warlock
-- Giant Lock
+- Aggro Warrior
+- Combo Priest
 - Mech Paladin
-- Murloc Mage
-- Murloc Paladin
-- Odd Paladin
-- Odd Rogue
-- Spiteful Druid
-- Spiteful Priest
-- Taunt Druid
-- Tempo Mage
-- Tempo Rogue
-- Wild Even Shaman
+- Murloc Shaman
+- Even Shaman
+- Pirate Warrior
+
+Classic:
+- Face Hunter
+- Midrange Shaman
+- Token Druid
 - Zoo Warlock
 
 Arena
