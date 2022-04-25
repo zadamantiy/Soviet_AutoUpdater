@@ -1,3 +1,8 @@
+----26-04-2022 (v62)
+- Added Naga Demon Hunter
+- Added Quest Warrior
+- Removed many old mulligans (Tell me if you need any of them back)
+
 ----25-04-2022 (v61)
 This is my first attempt with building arena tierlist based on HSReplay
 So report any troubles with mulligan on arena please.
