@@ -1,3 +1,7 @@
+----30-08-2022 (v63)
+- Support for Throne of the Tides
+- Support for Murder at Castle Nathria
+
 ----26-04-2022 (v62)
 - Added Naga Demon Hunter (May conflict with Wirmate's)
 - Added Quest Warrior (May conflict with Wirmate's)
